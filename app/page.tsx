@@ -74,35 +74,35 @@ export default function Home() {
               </div>
               <label className="relative inline-flex items-center mr-5 cursor-pointer">
                 <input type="checkbox" value="" className="sr-only peer" />
-                <div className="w-11 h-6 bg-gray-200 rounded-full peer dark:bg-gray-700 peer-focus:ring-2 peer-focus:ring-purple-300 dark:peer-focus:ring-purple-800 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-purple-600"></div>
+                <div className="w-11 h-6 bg-gray-200 rounded-full peer dark:bg-gray-700 peer-focus:ring-2 peer-focus:ring-violet-400 dark:peer-focus:ring-violet-800 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-violet-600"></div>
                 <span className="ml-3 text-sm font-semibold text-gray-700 dark:text-gray-300">
                   Include Uppercase Letters
                 </span>
               </label>
               <label className="relative inline-flex items-center mr-5 cursor-pointer">
                 <input type="checkbox" value="" className="sr-only peer" />
-                <div className="w-11 h-6 bg-gray-200 rounded-full peer dark:bg-gray-700 peer-focus:ring-2 peer-focus:ring-purple-300 dark:peer-focus:ring-purple-800 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-purple-600"></div>
+                <div className="w-11 h-6 bg-gray-200 rounded-full peer dark:bg-gray-700 peer-focus:ring-2 peer-focus:ring-violet-400 dark:peer-focus:ring-violet-800 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-violet-600"></div>
                 <span className="ml-3 text-sm font-semibold text-gray-900 dark:text-gray-300">
                   Include Lowercase Letters
                 </span>
               </label>
               <label className="relative inline-flex items-center mr-5 cursor-pointer">
                 <input type="checkbox" value="" className="sr-only peer" />
-                <div className="w-11 h-6 bg-gray-200 rounded-full peer dark:bg-gray-700 peer-focus:ring-2 peer-focus:ring-purple-300 dark:peer-focus:ring-purple-800 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-purple-600"></div>
+                <div className="w-11 h-6 bg-gray-200 rounded-full peer dark:bg-gray-700 peer-focus:ring-2 peer-focus:ring-violet-400 dark:peer-focus:ring-violet-800 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-violet-600"></div>
                 <span className="ml-3 text-sm font-semibold text-gray-900 dark:text-gray-300">
                   Include Numbers
                 </span>
               </label>
               <label className="relative inline-flex items-center mr-5 cursor-pointer">
                 <input type="checkbox" value="" className="sr-only peer" />
-                <div className="w-11 h-6 bg-gray-200 rounded-full peer dark:bg-gray-700 peer-focus:ring-2 peer-focus:ring-purple-300 dark:peer-focus:ring-purple-800 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-purple-600"></div>
+                <div className="w-11 h-6 bg-gray-200 rounded-full peer dark:bg-gray-700 peer-focus:ring-2 peer-focus:ring-violet-400 dark:peer-focus:ring-violet-800 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-violet-600"></div>
                 <span className="ml-3 text-sm font-semibold text-gray-900 dark:text-gray-300">
                   Include Symbols
                 </span>
               </label>
             </div>
             <div className="px-4 pb-2 pt-4">
-              <button className="tracking-wider block w-[80%] mx-auto p-2 text-lg font-semibold rounded-full bg-purple-600 hover:bg-purple-800 focus:outline-none duration-150">
+              <button className="tracking-wider block w-[80%] mx-auto p-2 text-lg font-semibold rounded-full bg-violet-700 hover:bg-violet-800 focus:outline-none duration-150">
                 Generate
               </button>
             </div>
