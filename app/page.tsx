@@ -72,7 +72,7 @@ export default function Home() {
   };
 
   return (
-    <section className="min-h-screen flex items-stretch text-white ">
+    <section className="h-screen flex items-stretch text-white ">
       <div
         className="lg:flex w-1/2 hidden bg-gray-500 bg-no-repeat bg-cover relative items-center"
         style={{
